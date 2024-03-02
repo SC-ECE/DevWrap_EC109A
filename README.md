@@ -1,9 +1,9 @@
 # Project-ID - EC109A
-# Hacking Guide for MyGym 😎
+# Hacking Guide for MyGame 😎
 
-## .yumYard 🤞
+## .MyGame 🤞
 
-It is a Food Delivery App made with React Js 😊
+Make any game using HTML CSS Js 😊
 
 
 ## How to setup it on your device ?? 🤔
