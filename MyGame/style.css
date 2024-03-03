@@ -1,5 +1,4 @@
-.center{
-    display: flex;
-    align-items: center;
-    justify-content: Center;
+body {
+    font-family: 'Courier New',Courier,monospace;
+    text-align : center;
 }
